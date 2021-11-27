@@ -1,0 +1,38 @@
+*{
+    margin: 0; 
+    padding: 0;
+ }
+
+.FFFFF {
+    font-size: 100px;
+
+    color: rgb(255, 255, 255);
+
+    background-color: rgb(7, 126, 17);
+}
+
+.FCCCC {
+    font-size: 50px;
+
+    color: rgb(255, 255, 255);
+
+    background-color: rgb(4, 131, 15);
+}
+
+
+.klub {
+    background-color: rgb(14, 136, 24);
+
+    color: rgb(255, 255, 255);
+
+    font-size: 50px;
+
+}
+
+.klubs {
+    font-size: 50px;
+
+    color: rgb(255, 255, 255);
+
+    background-color: rgb(14, 136, 24);
+}
